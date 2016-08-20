@@ -1,9 +1,9 @@
-package lab05;
-import java.util.Scanner; //Import scanner
+package ElevatorTest;
 
-/* @author harris
+/* Lab05
+ * @author harris
  */
-public class Lab05 {
+public class ElevatorTest {
 
     public static void main(String[] args) {
         
@@ -16,11 +16,6 @@ public class Lab05 {
             myElevator.closeDoor();
             myElevator.gotoTargetFloor(myTargetFloor);
         }
-
-        
-        
-       
-       
     }
     
 }

@@ -1,4 +1,4 @@
-package lab05;
+package ElevatorTest;
 
 import java.util.Scanner;
 
