@@ -11,13 +11,13 @@ public class Year extends DataIO {
     }
 
     public void setYear() {
-        System.out.print("Enter year(Budhist Carlendar): ");
+        System.out.print("Enter year(Buddhist Carlendar): ");
         int yearInput = input.nextInt();
 
         // Input limit
         while (yearInput < 1 || yearInput > 9999) {
             System.out.println("Please enter year between 0-9999");
-            System.out.print("Enter year(Budhist Carlendar): ");
+            System.out.print("Enter year(Buddhist Carlendar): ");
             yearInput = input.nextInt();
         }
 
