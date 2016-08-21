@@ -7,8 +7,6 @@ import java.util.Scanner;
 public class GradeCalculation {
     
     // Initialize constants
-    private final int MAX_SCORE = 100;
-    private final int MIN_SCORE = 0;
     private final int MAX_ATTENTION = 20;
     private final int MIN_ATTENTION = 0;
     private final int MAX_ASSIGNMENT = 30;
