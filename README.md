@@ -6,3 +6,4 @@ COS2208 Java Programming - Lab Course works
 - Lab05 - Elevator
 - Lab06 - Grade
 - Lab07 - Date in Buddhist Calendar
+- Lab08 - Tax Calculation
