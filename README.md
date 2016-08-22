@@ -11,3 +11,6 @@ COS2208 Java Programming - Lab Course works
 
 #### Lab20160809
 - Lab09 - Grading (with recursive process)
+- Lab10 - Grocery
+- Lab11 - Divisibility
+- Lab12 - Multiplication Table
