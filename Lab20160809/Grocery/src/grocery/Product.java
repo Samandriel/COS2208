@@ -1,4 +1,4 @@
-package grocerystore;
+package grocery;
 
 import java.util.Scanner;
 
