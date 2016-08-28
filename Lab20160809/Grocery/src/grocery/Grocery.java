@@ -6,7 +6,7 @@ public class Grocery {
     
     public static void main(String[] args) {
         int counter = 0;
-        int continueAdding;
+        int addMore;
         double totalPrice = 0;
         Product myProduct = new Product();
         
@@ -18,12 +18,22 @@ public class Grocery {
             counter++;
             System.out.println("=============================");
             System.out.println("Press: 1 - Add more item");
-            System.out.println("Press: 0 - quite program");
-            continueAdding = Product.input.nextInt();
-            if (counter > 999 || continueAdding == 0) {
-                break;
+            System.out.println("Press: 0 - quite program & print report");
+            addMore = Product.input.nextInt();
+            
+            // Validate menu input
+            while (addMore < 0 || addMore > 1) {
+                System.out.println("Incorrect number!!! Try again...");
+                System.out.println("=============================");
+                System.out.println("Press: 1 - Add more item");
+                System.out.println("Press: 0 - quite program & print report");
+                addMore = Product.input.nextInt();
             }
-        } while (continueAdding == 1);
+            
+            if (counter > 999 || addMore == 0) {
+                break;
+            } 
+        } while (addMore == 1);
        
         System.out.println("=============================");
         System.out.println("=============================");
