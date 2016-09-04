@@ -1,5 +1,6 @@
 # COS2208
 COS2208 Java Programming - Lab Course works
+*All projects created on Netbeans IDE*
 
 ## Project List
 
@@ -16,4 +17,8 @@ COS2208 Java Programming - Lab Course works
 - Lab12 - Multiplication Table
 
 #### Lab20160816
-- Lab13 - Radix Converter
+- Labxx - Radix Converter
+
+#### Lab20160816
+- Lab13 - ArraySort
+- Lab14 - NumberQuiz
