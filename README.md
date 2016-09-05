@@ -22,3 +22,4 @@ COS2208 Java Programming - Lab Course works
 #### Lab20160816
 - Lab13 - ArraySort
 - Lab14 - NumberQuiz
+- Lab15 - Cashier
