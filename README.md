@@ -1,6 +1,5 @@
 # COS2208
-COS2208 Java Programming - Lab Course works
-*All projects created on Netbeans IDE*
+COS2208 Java Programming - Lab Courseworks
 
 ## Project List
 
